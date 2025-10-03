@@ -263,7 +263,7 @@ This project is created for educational purposes as part of SOFE 4640U coursewor
 
 ## Author
 
-Student Project - Ontario Tech University  
+Mohammad Daiyan #100825241 - Ontario Tech University  
 Fall 2025
 
 ---
