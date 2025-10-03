@@ -14,3 +14,5 @@ echo APK location: app\build\outputs\apk\debug\app-debug.apk
 echo.
 
 pause
+
+# Note: This script assumes you have Gradle Wrapper (gradlew.bat) in your project root.

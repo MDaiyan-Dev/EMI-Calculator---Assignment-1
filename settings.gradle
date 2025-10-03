@@ -16,3 +16,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "EMI Calculator"
 include ':app'
+
+// Top-level build file where you we add configuration options common to all sub-projects/modules.
