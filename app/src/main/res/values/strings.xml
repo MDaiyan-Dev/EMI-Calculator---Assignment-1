@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_title">Welcome to EMI Calculator</string>
+    <string name="welcome_subtitle">Manage your mortgage, income, and expenses efficiently</string>
+    <string name="btn_get_started">Get Started</string>
+    
+    <!-- Calculator Activity -->
+    <string name="calculator_title">Calculate Your EMI</string>
+    <string name="loan_amount">Loan Amount ($)</string>
+    <string name="interest_rate">Interest Rate (% per year)</string>
+    <string name="loan_tenure">Loan Tenure (years)</string>
+    <string name="monthly_income">Monthly Income ($)</string>
+    <string name="monthly_expenses">Monthly Expenses ($)</string>
+    <string name="btn_calculate">Calculate Budget</string>
+    
+    <!-- Hints -->
+    <string name="hint_loan_amount">e.g., 300000</string>
+    <string name="hint_interest_rate">e.g., 5.5</string>
+    <string name="hint_tenure">e.g., 25</string>
+    <string name="hint_income">e.g., 5000</string>
+    <string name="hint_expenses">e.g., 1500</string>
+    
+    <!-- Result Activity -->
+    <string name="result_title">Your Budget Summary</string>
+    <string name="monthly_emi">Monthly EMI</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="budget_balance">Budget Balance</string>
+    <string name="savings_text">Monthly Savings</string>
+    <string name="deficit_text">Monthly Deficit</string>
+    <string name="btn_recalculate">Recalculate</string>
+    <string name="btn_back_home">Back to Home</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_field">Please fill all fields</string>
+    <string name="error_invalid_input">Please enter valid numbers</string>
+</resources>
